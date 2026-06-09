@@ -7,7 +7,7 @@
 - **Práctica:** Reto CyberOps - Ingeniería Inversa y Análisis de Sockets
 - **Estudiante:** Edwin De Paula
 - **Matrícula:** 2024-2415
-- **Enlace del Video:** [Insertar enlace de YouTube aquí]
+- **Enlace del Video:** https://youtu.be/atapGSYj9PQ
 
 ---
 
@@ -138,8 +138,10 @@ It never happens all at once. Its slow. Its methodical. Its exhausting.
 
 ```
 
-* *[Insertar aquí Captura image_6b1807.png mostrando el breakpoint amarillo y el string en Locals]*
-* *[Insertar aquí Captura image_6b13aa.png mostrando la alerta flotante de "Contraseña correcta" en la App]*
+<img width="866" height="456" alt="image" src="https://github.com/user-attachments/assets/7d7fb3e8-a80f-4beb-8a8e-731a7c1cd724" />
+
+<img width="856" height="427" alt="image" src="https://github.com/user-attachments/assets/a9aabfbd-3126-4c1a-943a-7a317d1893a6" />
+
 
 ---
 
