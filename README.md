@@ -1,4 +1,4 @@
-# Laboratorio 3: Análisis Forense, Tráfico Local e Ingeniería Inversa (CyberOps)
+# Análisis Forense, Tráfico Local e Ingeniería Inversa (CyberOps)
 
 ## 1. Información General
 
