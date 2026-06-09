@@ -2,10 +2,10 @@
 
 ## 1. Información General
 
-- **Institución:** Instituto Tecnológico de las Américas (ITLA), República Dominicana
+- **Institución:** Instituto Tecnológico de las Américas (ITLA)
 - **Materia:** Seguridad de Redes
 - **Práctica:** Reto CyberOps - Ingeniería Inversa y Análisis de Sockets
-- **Estudiante:** Edwin De Paula (Vervin Daniel Figuereo Mariñez)
+- **Estudiante:** Edwin De Paula
 - **Matrícula:** 2024-2415
 - **Enlace del Video:** [Insertar enlace de YouTube aquí]
 
