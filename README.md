@@ -138,7 +138,8 @@ It never happens all at once. Its slow. Its methodical. Its exhausting.
 
 ```
 
-<img width="866" height="456" alt="image" src="https://github.com/user-attachments/assets/7d7fb3e8-a80f-4beb-8a8e-731a7c1cd724" />
+<img width="756" height="480" alt="image" src="https://github.com/user-attachments/assets/248488f9-0e3a-491a-a769-bc33846dd0fd" />
+
 
 <img width="856" height="427" alt="image" src="https://github.com/user-attachments/assets/a9aabfbd-3126-4c1a-943a-7a317d1893a6" />
 
